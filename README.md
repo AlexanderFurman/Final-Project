@@ -30,7 +30,7 @@ gripper.stop_suction()
 
 ## Demo
 
-![Basic Demonstration of Gripper]([image_url](https://github.com/AlexanderFurman/Final-Project/blob/main/Demos/gripper_test.gif))
+<img src="https://raw.githubusercontent.com/AlexanderFurman/Final-Project/main/Demos/gripper_test.gif" alt="Basic Demonstration of Gripper">
 
 ## Project Presentation
 
