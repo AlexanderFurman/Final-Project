@@ -39,5 +39,5 @@ gripper.stop_suction()
 
 ## Project Presentation
 
-[Link to PDF](https://raw.githubusercontent.com/AlexanderFurman/Final-Project/main/Presentation/final_presentation.pdf)
+[Link to Project Presentation PDF](https://raw.githubusercontent.com/AlexanderFurman/Final-Project/main/Presentation/final_presentation.pdf)
 
