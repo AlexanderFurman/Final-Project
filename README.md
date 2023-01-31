@@ -28,11 +28,16 @@ gripper.start_suction()
 gripper.stop_suction()
 ```
 
-## Demo
+## Gripper Version 1 Demo
 
-<img src="https://raw.githubusercontent.com/AlexanderFurman/Final-Project/main/Demos/gripper_test.gif" alt="Basic Demonstration of Gripper">
+
+<img src="https://raw.githubusercontent.com/AlexanderFurman/Final-Project/main/Demos/initial_gripper_test.gif" alt="Demonstration of Gripper 1">
+
+## Gripper Version 2 Demo
+
+<img src="https://raw.githubusercontent.com/AlexanderFurman/Final-Project/main/Demos/gripper_test.gif" alt="Demonstration of Gripper 2">
 
 ## Project Presentation
 
-![Basic Demonstration of Gripper](image_url)
+[Link to PDF](https://raw.githubusercontent.com/AlexanderFurman/Final-Project/main/Presentation/final_presentation.pdf)
 
